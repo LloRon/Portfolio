@@ -5,7 +5,7 @@ Learning to code portfolio
 <h2> Jesus Christ is Lord</h2>
 <main>
   <p> 
-    <b>Just testing</b> everything out with what I know so far<br>
+    <b>Just testing</b> everything out with what I know so far. H<sub>2</sub>O<br>
     Things I like:<br>
     <ul>
       <li>Teaching the Bible</li>
